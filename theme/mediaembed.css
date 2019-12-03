@@ -1,0 +1,5 @@
+@define-mixin ck-imageviaurl-phone {
+    @media screen and (max-width: 600px) {
+        @mixin-content;
+    }
+}
