@@ -26,6 +26,7 @@
     "npm": ">=5.7.1"
   },
   "author": "Stun3R",
+  "license": "MIT",
   "bugs": "https://github.com/Stun3R/ckeditor5-image-embed/issues",
   "repository": {
     "type": "git",
