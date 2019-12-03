@@ -37,6 +37,7 @@
     "theme"
   ],
   "scripts": {
+    "test": "echo \"No test specified\"",
     "lint": "eslint --quiet '**/*.js'"
   },
   "lint-staged": {
